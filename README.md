@@ -1,6 +1,6 @@
 # NeuralNetworkSimple
 
-This is a small neural netwrok with 5 neurons, 2 input, 2 hidden, and 1 output, that can predict the XOR function of 0 and 1. 
+This is a small neural network with 5 neurons, 2 input, 2 hidden, and 1 output, that can predict the XOR function of 0 and 1. 
 
 ## How to Run
 
