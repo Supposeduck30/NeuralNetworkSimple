@@ -20,11 +20,6 @@ The data set would be:
 
 An XOR function means that if the two values are the same, it should return 0, and if they are different, it should return 1.
 
-## What is a neural network?
+## Resources
+Neural networks explained - https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
 
-A neural network is a type of a machine learning model which uses layers of neurons (mathematical functions) to find patterns in data.
-Input Layer – Takes in the raw data (e.g., pixel values of an image).
-
-Hidden Layers – Where the actual computation happens. Each neuron does a weighted sum of inputs and passes it through an activation function.
-
-Output Layer – Produces the final result
