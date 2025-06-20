@@ -19,4 +19,4 @@ The data set would be:
 
 An XOR function means that if the two values are the same, it should return 0, and if they are different, it should return 1.
 
-##https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
+## https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
