@@ -18,3 +18,5 @@ The data set would be:
 - ([1, 1], 0)
 
 An XOR function means that if the two values are the same, it should return 0, and if they are different, it should return 1.
+
+##https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
