@@ -17,4 +17,4 @@ The data set would be:
 - ([1, 0], 1),
 - ([1, 1], 0)
 
-An XOR function means that if the two values are the same, it shuld return 0, and if they are different, it should return 1.
+An XOR function means that if the two values are the same, it should return 0, and if they are different, it should return 1.
