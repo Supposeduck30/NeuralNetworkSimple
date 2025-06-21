@@ -4,7 +4,7 @@ This is a small neural network with 5 neurons, 2 input, 2 hidden, and 1 output, 
 
 ## How to Run
 
-- Make sure you have python installed.
+- Make sure you have python installed
 - Save the script as NeuralNetworkSimple.py
 - Run the script in your terminal with "python NeuralNetworkSimple.py"
 - You can also copy and paste the code into an IDE or an online python compiler and run it there
